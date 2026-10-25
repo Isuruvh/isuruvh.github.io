@@ -1,11 +1,11 @@
 # Site settings
-title: Isuru V H
+title: My Portfolio
 description: Professional portfolio – projects, skills and experience.
 url: "https://isuruvh.github.io"
 baseurl: ""            # keep empty for a user site (isuruvh.github.io)
 
 # Author info (used by some themes / SEO tag)
-author: Isuru V H
+author: Isuru Vijayanga Heendeniya
 # github_username: Isuruvh
 # linkedin_username: your-handle
 # email: you@example.com
