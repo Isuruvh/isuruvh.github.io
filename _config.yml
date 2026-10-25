@@ -22,7 +22,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-remote-theme   # only needed if you use remote_theme
+ # - jekyll-remote-theme   # only needed if you use remote_theme
 
 # Treat README.md as a normal page (don't exclude it)
 include:
