@@ -1,0 +1,38 @@
+# Site settings
+title: Isuru V H
+description: Professional portfolio – projects, skills and experience.
+url: "https://isuruvh.github.io"
+baseurl: ""            # keep empty for a user site (isuruvh.github.io)
+
+# Author info (used by some themes / SEO tag)
+author: Isuru V H
+# github_username: Isuruvh
+# linkedin_username: your-handle
+# email: you@example.com
+
+# Theme – GitHub Pages supported themes: minima, cayman, minimal, slate,
+# midnight, architect, time-machine, etc.
+theme: minima
+# Alternatively use a remote theme:
+# remote_theme: pages-themes/cayman@v0.2.0
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-remote-theme   # only needed if you use remote_theme
+
+# Treat README.md as a normal page (don't exclude it)
+include:
+  - README.md
+
+# Files/folders Jekyll should ignore
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
