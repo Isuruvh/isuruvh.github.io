@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-# Hi, I'm Isuruvh 👋
+# Hi, I'm Isuru  Heendeniya 👋
 
 ## Identity & Access Management Engineer
 
