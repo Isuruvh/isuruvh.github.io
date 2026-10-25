@@ -1,3 +1,9 @@
+---
+layout: default
+title: Home
+permalink: /
+---
+
 # Hi, I'm Isuruvh 👋
 
 ## Identity & Access Management Engineer
