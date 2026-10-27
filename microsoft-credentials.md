@@ -1,22 +1,35 @@
 ---
 layout: default
-title: Microsoft & Multi-Vendor Credentials
+title: Multi-Vendor Credentials
 permalink: /microsoft/
 ---
 
-[← Home](/) | [IAM Credentials](/credentials/) | [Coding Certificates](/coding-certificates/) | **Microsoft & Multi-Vendor Credentials** | [Microsoft Applied Skills](/microsoft-applied-skills/) | [Okta Skill Badges](/okta/) | [Auth0 Skill Badges](/auth0/)
+[← Home](/) | [IAM Credentials](/credentials/) | [Coding Certificates](/coding-certificates/) | **Multi-Vendor Credentials** | [Microsoft Applied Skills](/microsoft-applied-skills/) | [Okta Skill Badges](/okta/) | [Auth0 Skill Badges](/auth0/)
 
-# 🟦 Microsoft & Multi-Vendor Credentials
+# 🟦 Multi-Vendor Credentials
 
-> 🚧 **Under construction** – this page is being organized. Verified credential links and details will be updated soon.
+A combined view of Microsoft certifications and other supporting multi-vendor credentials.
 
 ---
 
-## Credentials
+## Microsoft Certifications
 
-| Code | Credential | Credential ID | Issued | Expires | Verification |
+| Exam No | Certification Title | Certification Number | Earned On | Expires On | Credential Link |
 |---|---|---|---|---|---|
-| _TBD_ | _Under construction_ | — | — | — | — |
+| DP-700 | Microsoft Certified: Fabric Analytics Engineer Associate | A6279D-6W9850 | 6/24/2024 | 6/25/2027 | [Verify](https://learn.microsoft.com/api/credentials/share/en-us/IsuruHeendeniya-9793/9F8FCD1FE0AC54D2?sharingId=26AF776D0347F7BE) |
+| AZ-104 | Microsoft Certified: Azure Administrator Associate | D119V0-B57EE7 | 1/4/2024 | 1/5/2028 | [Verify](https://learn.microsoft.com/api/credentials/share/en-us/IsuruHeendeniya-9793/604C05F67D8AD566?sharingId=26AF776D0347F7BE) |
+| AZ-700 | Microsoft Certified: Azure Network Engineer Associate | 7EEB66-4348Y6 | 2/2/2024 | 2/3/2028 | [Verify](https://learn.microsoft.com/api/credentials/share/en-us/IsuruHeendeniya-9793/41A6D4EA432F7D66?sharingId=26AF776D0347F7BE) |
+
+---
+
+## Multi-vendor Certificates
+
+| Exam No | Certification Title | Certification Number | Earned On | Expires On | Credential Link |
+|---|---|---|---|---|---|
+| 004 | HashiCorp Certified: Terraform Associate (004) | 435c56f3-48e1-403a-9390-d10dcf5ba278 | 7/16/2026 | 7/16/2028 | [Verify](https://www.credly.com/badges/435c56f3-48e1-403a-9390-d10dcf5ba278/public_url) |
+| SY0-601 | CompTIA Security+ ce Certification | 5f6e6156-3208-4f0c-bbaf-f10a915e6a61 | 8/31/2023 | 8/31/2026 | [Verify](https://www.credly.com/badges/5f6e6156-3208-4f0c-bbaf-f10a915e6a61/public_url) |
+| CCNA | Cisco Certified Network Associate Routing and Switching | 07fa7c70-6629-421d-881f-0923ac59c21c | 11/2/2018 | 5/2/2022 | [Verify](https://www.credly.com/badges/07fa7c70-6629-421d-881f-0923ac59c21c/public_url) |
+| SCCPU | Splunk Core Certified Power User | caf80bbb-d0ca-4023-9092-6def46e68809 | 1/5/2025 | 3/24/2028 | [Verify](https://www.credly.com/badges/caf80bbb-d0ca-4023-9092-6def46e68809/public_url) |
 
 ---
 
