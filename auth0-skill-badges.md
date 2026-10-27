@@ -4,11 +4,11 @@ title: Auth0 Skill Badges
 permalink: /auth0/
 ---
 
-[← Home](/) | [IAM Credentials](/credentials/) | [Microsoft Credentials](/microsoft/) | [Okta Skill Badges](/okta/) | **Auth0 Skill Badges**
+[← Home](/) | [IAM Credentials](/credentials/) | [Microsoft & Multi-Vendor Credentials](/microsoft/) | [Microsoft Applied Skills](/microsoft-applied-skills/) | [Okta Skill Badges](/okta/) | **Auth0 Skill Badges**
 
 # 🟠 Auth0 Skill Badges
 
-> 🚧 **In progress** – this page is being compiled. Verified badge links will be added shortly.
+> 🚧 **Under construction** – this page is being compiled. Verified badge links will be added shortly.
 
 ---
 

@@ -21,6 +21,7 @@ header_pages:
   - README.md
   - credentials.md
   - microsoft-credentials.md
+  - microsoft-applied-skills.md
   - okta-skill-badges.md
   - auth0-skill-badges.md
 
