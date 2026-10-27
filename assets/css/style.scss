@@ -2,6 +2,21 @@
 ---
 @import "minima";
 
+/* ---------- Global color theme ---------- */
+body {
+  background-color: #f4f9ff;
+  color: #1f2937;
+}
+
+.page-content a {
+  color: #1d4ed8;
+}
+
+.page-content a:hover,
+.page-content a:focus {
+  color: #1e40af;
+}
+
 /* ---------- Embossed button styling for links ---------- */
 $btn-bg-top: #4aa3ff;
 $btn-bg-bottom: #1565c0;
@@ -74,8 +89,4 @@ $btn-border: #0d47a1;
 /* Badge images keep their own look, just add a subtle lift on hover */
 .page-content a img {
   transition: transform 0.1s ease, filter 0.15s ease;
-}
-.page-content a:hover img {
-  transform: translateY(-2px);
-  filter: drop-shadow(0 3px 4px rgba(0, 0, 0, 0.35));
 }
