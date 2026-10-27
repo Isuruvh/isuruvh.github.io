@@ -20,6 +20,9 @@ theme: minima
 header_pages:
   - README.md
   - credentials.md
+  - microsoft-credentials.md
+  - okta-skill-badges.md
+  - auth0-skill-badges.md
 
 # Build settings
 markdown: kramdown
