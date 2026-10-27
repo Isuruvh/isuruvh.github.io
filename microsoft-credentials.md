@@ -4,7 +4,7 @@ title: Multi-Vendor Credentials
 permalink: /microsoft/
 ---
 
-[← Home](/) | [IAM Credentials](/credentials/) | [Coding Certificates](/coding-certificates/) | **Multi-Vendor Credentials** | [Microsoft Applied Skills](/microsoft-applied-skills/) | [Okta Skill Badges](/okta/) | [Auth0 Skill Badges](/auth0/)
+[← Home](/) | [IAM Credentials](/credentials/) | [Coding Certificates](/coding-certificates/) | **Multi-Vendor Credentials** | [Microsoft Applied Skills](/microsoft-applied-skills/) | [Okta Skill Badges](/okta/) | [Auth0 Skill Badges](/auth0/) | [Global AI Community](/global-ai-community/)
 
 # 🟦 Multi-Vendor Credentials
 
@@ -29,7 +29,14 @@ A combined view of Microsoft certifications and other supporting multi-vendor cr
 | 004 | HashiCorp Certified: Terraform Associate (004) | 435c56f3-48e1-403a-9390-d10dcf5ba278 | 7/16/2026 | 7/16/2028 | [Verify](https://www.credly.com/badges/435c56f3-48e1-403a-9390-d10dcf5ba278/public_url) |
 | SY0-601 | CompTIA Security+ ce Certification | 5f6e6156-3208-4f0c-bbaf-f10a915e6a61 | 8/31/2023 | 8/31/2026 | [Verify](https://www.credly.com/badges/5f6e6156-3208-4f0c-bbaf-f10a915e6a61/public_url) |
 | CCNA | Cisco Certified Network Associate Routing and Switching | 07fa7c70-6629-421d-881f-0923ac59c21c | 11/2/2018 | 5/2/2022 | [Verify](https://www.credly.com/badges/07fa7c70-6629-421d-881f-0923ac59c21c/public_url) |
-| SCCPU | Splunk Core Certified Power User | caf80bbb-d0ca-4023-9092-6def46e68809 | 1/5/2025 | 3/24/2028 | [Verify](https://www.credly.com/badges/caf80bbb-d0ca-4023-9092-6def46e68809/public_url) |
+
+---
+
+## Badge Highlights
+
+[![DP-700](https://img.shields.io/badge/Microsoft-DP--700%20Fabric%20Analytics-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/IsuruHeendeniya-9793/9F8FCD1FE0AC54D2?sharingId=26AF776D0347F7BE)
+[![AZ-104](https://img.shields.io/badge/Microsoft-AZ--104%20Azure%20Administrator-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/IsuruHeendeniya-9793/604C05F67D8AD566?sharingId=26AF776D0347F7BE)
+[![Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://www.credly.com/badges/435c56f3-48e1-403a-9390-d10dcf5ba278/public_url)
 
 ---
 

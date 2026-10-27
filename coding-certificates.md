@@ -4,7 +4,7 @@ title: Coding Certificates
 permalink: /coding-certificates/
 ---
 
-[← Home](/) | [IAM Credentials](/credentials/) | **Coding Certificates** | [Multi-Vendor Credentials](/microsoft/) | [Microsoft Applied Skills](/microsoft-applied-skills/) | [Okta Skill Badges](/okta/) | [Auth0 Skill Badges](/auth0/)
+[← Home](/) | [IAM Credentials](/credentials/) | **Coding Certificates** | [Multi-Vendor Credentials](/microsoft/) | [Microsoft Applied Skills](/microsoft-applied-skills/) | [Okta Skill Badges](/okta/) | [Auth0 Skill Badges](/auth0/) | [Global AI Community](/global-ai-community/)
 
 # 💻 Coding Certificates
 
