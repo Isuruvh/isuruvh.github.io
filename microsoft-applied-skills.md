@@ -4,7 +4,7 @@ title: Microsoft Applied Skills
 permalink: /microsoft-applied-skills/
 ---
 
-[← Home](/) | [IAM Credentials](/credentials/) | [Microsoft & Multi-Vendor Credentials](/microsoft/) | **Microsoft Applied Skills** | [Okta Skill Badges](/okta/) | [Auth0 Skill Badges](/auth0/)
+[← Home](/) | [IAM Credentials](/credentials/) | [Coding Certificates](/coding-certificates/) | [Microsoft & Multi-Vendor Credentials](/microsoft/) | **Microsoft Applied Skills** | [Okta Skill Badges](/okta/) | [Auth0 Skill Badges](/auth0/)
 
 # 🧩 Microsoft Applied Skills
 

@@ -20,6 +20,7 @@ theme: minima
 header_pages:
   - README.md
   - credentials.md
+  - coding-certificates.md
   - microsoft-credentials.md
   - microsoft-applied-skills.md
   - okta-skill-badges.md
