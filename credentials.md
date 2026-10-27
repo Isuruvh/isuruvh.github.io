@@ -16,7 +16,7 @@ A curated list of my Identity and Access Management (IAM) credentials with direc
 
 | Code | Credential | Credential ID | Issued | Expires | Verification |
 |---|---|---|---|---|---|
-| OKDEV1/2 | Okta Certified Developer | 6b39cea6-65e0-4886-9aaf-b21679554a22 | September 28, 2026 | September 28, 2028 | [Verify](https://www.credly.com/earner/earned/badge/6b39cea6-65e0-4886-9aaf-b21679554a22) |
+| OKDEV1/2 | Okta Certified Developer | 6b39cea6-65e0-4886-9aaf-b21679554a22 | September 28, 2026 | September 28, 2028 | [Verify](https://www.credly.com/badges/6b39cea6-65e0-4886-9aaf-b21679554a22) |
 | SC-300 | Microsoft Certified: Identity and Access Administrator Associate | A68416-53ABJC | April 7, 2026 | April 8, 2028 | [Verify](https://learn.microsoft.com/api/credentials/share/en-us/IsuruHeendeniya-9793/9AC6952112A3FAA?sharingId=26AF776D0347F7BE) |
 | AZ-800/AZ-801 | Microsoft Certified: Windows Server Administrator Associate | 0CJ070-83C4E1 | August 31, 2026 | September 1, 2027 | [Verify](https://learn.microsoft.com/api/credentials/share/en-us/IsuruHeendeniya-9793/33A78848E0CBC9C5?sharingId=26AF776D0347F7BE) |
 | SailPoint | SailPoint Identity Security Leader Credential | d70c6184-a470-48ca-a091-120827bf4fb8 | October 4, 2026 | — | [Verify](https://www.credly.com/earner/earned/badge/d70c6184-a470-48ca-a091-120827bf4fb8) |
