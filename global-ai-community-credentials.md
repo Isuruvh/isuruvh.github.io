@@ -4,7 +4,6 @@ title: Global AI Community Credentials
 permalink: /global-ai-community/
 ---
 
-[← Home](/) | [IAM Credentials](/credentials/) | [Coding Certificates](/coding-certificates/) | [Microsoft & Multi-Vendor Credentials](/microsoft/) | [Microsoft Applied Skills](/microsoft-applied-skills/) | [Okta Skill Badges](/okta/) | [Auth0 Skill Badges](/auth0/) | **Global AI Community**
 
 # 🌐 Global AI Community - Copilot Studio Agent Academy Badges
 
