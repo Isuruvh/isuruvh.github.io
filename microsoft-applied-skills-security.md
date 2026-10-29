@@ -18,4 +18,4 @@ permalink: /microsoft-applied-skills-security/
 | Microsoft Applied Skills: Defend against cyberthreats with Microsoft Defender XDR | `E239C223DA478A84` | 2026-04-09 | [View credential](https://learn.microsoft.com/api/credentials/share/en-us/IsuruHeendeniya-9793/E239C223DA478A84?sharingId=26AF776D0347F7BE) |
 | Microsoft Applied Skills: Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls | `DD3586809BEAA4BB` | 2026-03-31 | [View credential](https://learn.microsoft.com/api/credentials/share/en-us/IsuruHeendeniya-9793/DD3586809BEAA4BB?sharingId=26AF776D0347F7BE) |
 
-**Continued navigation:** [← AI Business Solutions](/microsoft-applied-skills/)
+**Continued navigation:** [← AI Business Solutions](/microsoft-applied-skills-ai-business/)
