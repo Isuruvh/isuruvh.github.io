@@ -25,7 +25,7 @@ header_pages:
   - microsoft-applied-skills.md
   - okta-skill-badges.md
   - auth0-skill-badges.md
-
+  - global-ai-community-credentials.md
 # Build settings
 markdown: kramdown
 plugins:

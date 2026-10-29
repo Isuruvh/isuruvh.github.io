@@ -4,8 +4,6 @@ title: IAM Credentials
 permalink: /credentials/
 ---
 
-[← Home](/) | **IAM Credentials**
-
 # 🔐 IAM Credentials
 
 A curated list of my Identity and Access Management (IAM) credentials with direct verification links.
