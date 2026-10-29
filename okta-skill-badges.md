@@ -4,8 +4,6 @@ title: Okta Skill Badges
 permalink: /okta/
 ---
 
-[← Home](/) | [IAM Credentials](/credentials/) | [Coding Certificates](/coding-certificates/) | [Microsoft & Multi-Vendor Credentials](/microsoft/) | [Microsoft Applied Skills](/microsoft-applied-skills/) | **Okta Skill Badges** | [Auth0 Skill Badges](/auth0/) | [Global AI Community](/global-ai-community/)
-
 # 🔷 Okta Skill Badges
 
 ---
