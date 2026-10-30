@@ -1,33 +1,48 @@
 ---
 ---
-/* 1. Import the dark skin settings first to populate all required framework variables */
-@import "minima/skins/dark";
+/* ---------- Foundational Framework Variables ---------- */
+$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !default;
+$base-font-size:   16px;
+$base-font-weight: 400;
+$small-font-size:  14px;
+$line-height:      1.5;
 
-/* 2. Import base and layout now that all variable constraints are satisfied */
+/* Core Theme Colors */
+$background-color: #0f172a;
+$text-color:       #f8fafc;
+$brand-color:      #38bdf8;
+
+/* Gray scale variables required by layouts */
+$grey-color:       #64748b;
+$grey-color-light: #334155;
+$grey-color-dark:  #94a3b8;
+
+/* ---------- Framework Library Imports ---------- */
+@import "minima/skins/dark";
 @import "minima/base";
 @import "minima/layout";
 
-/* ---------- Global color theme Overrides ---------- */
+/* ---------- Global Custom Dark Theme Overrides ---------- */
 html, body { 
   background-color: #0f172a !important; /* Slate 900 - Deep charcoal background */
   color: #f8fafc !important;            /* Slate 50 - Off-white crisp text */
 }
 
 .site-header, .site-footer { 
-  background-color: #1e293b !important; /* Slate 800 - Subtle dark gray-blue wrapper */
-  border-color: #334155 !important;     /* Slate 700 - Subdued borders */
+  background-color: #1e293b !important; /* Slate 800 - Deep gray-blue banner */
+  border-color: #334155 !important;     /* Slate 700 - Subdued divider border */
   font-size: 0.50rem;
 }
 
 .page-content a, .main-content a { 
-  color: #38bdf8 !important;            /* Sky 400 - Highly visible electric cyan-blue */
+  color: #38bdf8 !important;            /* Sky 400 - High-visibility cyan link text */
 }
 
 .page-content a:hover, .page-content a:focus, .main-content a:hover { 
-  color: #7dd3fc !important;            /* Sky 300 - Brighter highlight on hover */
+  color: #7dd3fc !important;            /* Sky 300 - Bright cyan highlight on hover */
 }
 
-/* Fixes heading and page titles text visibility on deep backgrounds */
+/* Fixes title, headers, and navigation element contrast */
 h1, h2, h3, h4, h5, h6, .site-title, .site-title:visited {
   color: #f8fafc !important;
 }
@@ -74,7 +89,7 @@ $btn-border: #0d47a1;
     0 1px 1px rgba(0, 0, 0, 0.2);
 }
 
-/* Top header navigation */
+/* Top header navigation buttons */
 .site-header .site-nav .page-link {
   @include emboss-button;
   margin-left: 4px;
@@ -96,7 +111,7 @@ $btn-border: #0d47a1;
 .page-content table a:hover, .main-content table a:hover { @include emboss-button-hover; }
 .page-content table a:active, .main-content table a:active { @include emboss-button-active; }
 
-/* Badge images keep their own look, just add a subtle lift on hover */
+/* Subtle transform lift on hovering linked badge images */
 .page-content a img, .main-content a img {
   transition: transform 0.1s ease, filter 0.15s ease;
 }
