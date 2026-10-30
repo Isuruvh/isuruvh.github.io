@@ -1,11 +1,15 @@
 ---
 ---
-/* Import the individual foundational pieces of Minima to avoid variable dependency errors */
+/* 1. Define foundational Minima variables upfront to fix compilation errors */
+$base-font-size:   16px !default;
+$text-color:       #f8fafc !default;
+
+/* 2. Import the individual pieces safely now that variables are initialized */
 @import "minima/skins/dark";
 @import "minima/base";
 @import "minima/layout";
 
-/* ---------- Global color theme ---------- */
+/* ---------- Global color theme Overrides ---------- */
 html, body { 
   background-color: #0f172a !important; /* Slate 900 - Deep charcoal background */
   color: #f8fafc !important;            /* Slate 50 - Off-white crisp text */
