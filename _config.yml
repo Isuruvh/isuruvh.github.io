@@ -13,7 +13,7 @@ author: Isuru Vijayanga Heendeniya
 # Theme – GitHub Pages supported themes: minima, cayman, minimal, slate,
 # midnight, architect, time-machine, etc.
 #theme: minima
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 remote_theme: jekyll/minima
 
 # Alternatively use a remote theme:
