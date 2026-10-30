@@ -17,6 +17,7 @@ $content-width:    800px !default;
 
 /* Media query screen limits utilized by layout frameworks */
 $on-palm:          600px !default;
+$on-medium:        800px !default; /* Added to fix line 223 compilation failures */
 $on-laptop:        800px !default;
 
 /* Core Theme Design Colors */
@@ -39,6 +40,8 @@ $grey-color-dark:  #94a3b8;
 @mixin media-query($device) {
   @if $device == palm {
     @media screen and (max-width: $on-palm) { @content; }
+  } @else if $device == medium {
+    @media screen and (max-width: $on-medium) { @content; }
   } @else if $device == laptop {
     @media screen and (max-width: $on-laptop) { @content; }
   }
