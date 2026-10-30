@@ -14,6 +14,10 @@ $base-line-height: 1.5;
 /* Layout spacing units required by Minima layouts */
 $spacing-unit:     30px;
 
+/* Media query screen limits utilized by layout frameworks */
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
+
 /* Core Theme Design Colors */
 $background-color: #0f172a;
 $text-color:       #f8fafc;
@@ -28,6 +32,15 @@ $grey-color-dark:  #94a3b8;
 /* Fixes 'Undefined mixin relative-font-size' pipeline errors */
 @mixin relative-font-size($size) {
   font-size: $size * 1rem;
+}
+
+/* Fixes 'Undefined mixin media-query' pipeline errors */
+@mixin media-query($device) {
+  @if $device == palm {
+    @media screen and (max-width: $on-palm) { @content; }
+  } @else if $device == laptop {
+    @media screen and (max-width: $on-laptop) { @content; }
+  }
 }
 
 /* ---------- Framework Library Imports ---------- */
