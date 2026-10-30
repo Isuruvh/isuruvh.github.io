@@ -14,12 +14,13 @@ $base-line-height: 1.5;
 /* Layout spacing, text alignment, and grid bounds units required by Minima layouts */
 $spacing-unit:     30px;
 $content-width:    800px !default;
-$table-text-align: left !default; /* Added to fix line 270 compilation failures */
+$table-text-align: left !default;
 
 /* Media query screen limits utilized by layout frameworks */
 $on-palm:          600px !default;
 $on-medium:        800px !default;
 $on-laptop:        800px !default;
+$on-large:         1200px !default; /* Added to fix line 165 compilation failures */
 
 /* Core Theme Design Colors */
 $background-color: #0f172a;
@@ -45,6 +46,8 @@ $grey-color-dark:  #94a3b8;
     @media screen and (max-width: $on-medium) { @content; }
   } @else if $device == laptop {
     @media screen and (max-width: $on-laptop) { @content; }
+  } @else if $device == large {
+    @media screen and (max-width: $on-large) { @content; }
   }
 }
 
