@@ -1,26 +1,26 @@
 ---
 ---
-@import "minima";
+@import "minima/initialize";
 
 /* ---------- Global color theme ---------- */
 html, body { 
-  background-color: #0f172a; /* Slate 900 - Deep charcoal background */
-  color: #f8fafc;            /* Slate 50 - Off-white crisp text */
+  background-color: #0f172a !important; /* Slate 900 - Deep charcoal background */
+  color: #f8fafc !important;            /* Slate 50 - Off-white crisp text */
 }
 .site-header, .site-footer { 
-  background-color: #1e293b; /* Slate 800 - Subtle dark gray-blue wrapper */
-  border-color: #334155;     /* Slate 700 - Subdued borders */
-  font-size: 0.50rem;        /* Integrated from duplicate layout file */
+  background-color: #1e293b !important; /* Slate 800 - Subtle dark gray-blue wrapper */
+  border-color: #334155 !important;     /* Slate 700 - Subdued borders */
+  font-size: 0.50rem;
 }
-.page-content a { 
-  color: #38bdf8;            /* Sky 400 - Highly visible electric cyan-blue */
+.page-content a, .main-content a { 
+  color: #38bdf8 !important;            /* Sky 400 - Highly visible electric cyan-blue */
 }
-.page-content a:hover, .page-content a:focus { 
-  color: #7dd3fc;            /* Sky 300 - Brighter highlight on hover */
+.page-content a:hover, .page-content a:focus, .main-content a:hover { 
+  color: #7dd3fc !important;            /* Sky 300 - Brighter highlight on hover */
 }
 
-/* Fixes default dark Minima headings & title text visibility on deep backgrounds */
-.site-title, .site-title:visited, h1, h2, h3, h4, h5, h6 {
+/* Fixes heading and page titles text visibility on deep backgrounds */
+h1, h2, h3, h4, h5, h6, .site-title, .site-title:visited {
   color: #f8fafc !important;
 }
 
@@ -77,19 +77,18 @@ $btn-border: #0d47a1;
 .site-header .site-nav .page-link:active { @include emboss-button-active; }
 
 
-
 /* "Verify" / credential links inside tables */
-.page-content table a {
+.page-content table a, .main-content table a {
   @include emboss-button;
   padding: 4px 12px;
   font-size: 0.85rem;
-  background: linear-gradient(to bottom, #43c76b, #1b8a3f);
-  border-color: #146c31;
+  background: linear-gradient(to bottom, #43c76b, #1b8a3f) !important;
+  border-color: #146c31 !important;
 }
-.page-content table a:hover { @include emboss-button-hover; }
-.page-content table a:active { @include emboss-button-active; }
+.page-content table a:hover, .main-content table a:hover { @include emboss-button-hover; }
+.page-content table a:active, .main-content table a:active { @include emboss-button-active; }
 
 /* Badge images keep their own look, just add a subtle lift on hover */
-.page-content a img {
+.page-content a img, .main-content a img {
   transition: transform 0.1s ease, filter 0.15s ease;
 }
