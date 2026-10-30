@@ -23,6 +23,12 @@ $grey-color:       #64748b;
 $grey-color-light: #334155;
 $grey-color-dark:  #94a3b8;
 
+/* ---------- Minima Mixin Declarations ---------- */
+/* Fixes 'Undefined mixin relative-font-size' pipeline errors */
+@mixin relative-font-size($size) {
+  font-size: $size * 1rem;
+}
+
 /* ---------- Framework Library Imports ---------- */
 @import "minima/skins/dark";
 @import "minima/base";
