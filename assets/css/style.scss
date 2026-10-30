@@ -11,8 +11,9 @@ $small-font-size:  14px;
 $line-height:      1.5;
 $base-line-height: 1.5;
 
-/* Layout spacing units required by Minima layouts */
+/* Layout spacing and grid bounds units required by Minima layouts */
 $spacing-unit:     30px;
+$content-width:    800px !default;
 
 /* Media query screen limits utilized by layout frameworks */
 $on-palm:          600px !default;
