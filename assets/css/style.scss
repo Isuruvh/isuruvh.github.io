@@ -1,11 +1,9 @@
 ---
 ---
-/* 1. Define foundational Minima variables upfront to fix compilation errors */
-$base-font-size:   16px !default;
-$text-color:       #f8fafc !default;
-
-/* 2. Import the individual pieces safely now that variables are initialized */
+/* 1. Import the dark skin settings first to populate all required framework variables */
 @import "minima/skins/dark";
+
+/* 2. Import base and layout now that all variable constraints are satisfied */
 @import "minima/base";
 @import "minima/layout";
 
@@ -29,7 +27,7 @@ html, body {
   color: #7dd3fc !important;            /* Sky 300 - Brighter highlight on hover */
 }
 
-/* Fixes default heading and page titles text visibility on deep backgrounds */
+/* Fixes heading and page titles text visibility on deep backgrounds */
 h1, h2, h3, h4, h5, h6, .site-title, .site-title:visited {
   color: #f8fafc !important;
 }
