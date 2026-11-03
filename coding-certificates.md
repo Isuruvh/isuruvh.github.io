@@ -6,9 +6,7 @@ permalink: /coding-certificates/
 
 # 💻 Coding Certificates
 
-A collection of my coding certificates, including freeCodeCamp credentials.
-
-
+---
 
 | Platform | Certificate | Certificate ID | Verification |
 |---|---|---|---|
@@ -19,5 +17,6 @@ A collection of my coding certificates, including freeCodeCamp credentials.
 | FreeCodeCamp | Back-End Development and APIs | back-end-development-and-apis-v9 | [Verify](https://www.freecodecamp.org/certification/isuruvh/back-end-development-and-apis-v9) |
 | FreeCodeCamp | Front End Development Libraries | front-end-development-libraries-v9 | [Verify](https://www.freecodecamp.org/certification/isuruvh/front-end-development-libraries-v9) |
 
+---
 
 [← Back to Home](/)
