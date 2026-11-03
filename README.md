@@ -10,7 +10,7 @@ permalink: /
     <h2>Identity &amp; Access Management Engineer</h2>
   </div>
   <div style="flex: 0 0 auto;">
-    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fc7b4aad-96aa-4518-8859-2a3db8c6d0ff" data-share-badge-host="https://www.credly.com"></div>
+    <div data-iframe-width="270" data-iframe-height="270" data-share-badge-id="fc7b4aad-96aa-4518-8859-2a3db8c6d0ff" data-share-badge-host="https://www.credly.com"></div>
   </div>
 </div>
 <script async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
