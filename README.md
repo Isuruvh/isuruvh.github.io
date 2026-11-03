@@ -4,9 +4,16 @@ title: Home
 permalink: /
 ---
  
-# Hi, I'm Isuru  Heendeniya 👋
-
-## Identity & Access Management Engineer
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+  <div>
+    <h1>Hi, I’m Isuru Heendeniya 👋</h1>
+    <h2>Identity &amp; Access Management Engineer</h2>
+  </div>
+  <div style="flex: 0 0 auto;">
+    <div data-iframe-width="90" data-iframe-height="162" data-share-badge-id="fc7b4aad-96aa-4518-8859-2a3db8c6d0ff" data-share-badge-host="https://www.credly.com"></div>
+  </div>
+</div>
+<script async src="https://cdn.credly.com/assets/utilities/embed.js"></script>
 
 I work on building secure, scalable authentication and authorization solutions across web, mobile, and cloud environments.
 
