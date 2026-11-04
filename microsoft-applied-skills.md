@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Microsoft Applied Skills(3 pages)
+title: Microsoft Applied Skills(page 1)
 permalink: /microsoft-applied-skills/
 ---
 
