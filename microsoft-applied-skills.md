@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Microsoft Applied Skills — AI and Cloud Platforms
+title: Microsoft Applied Skills(3 pages)
 permalink: /microsoft-applied-skills/
 ---
 
