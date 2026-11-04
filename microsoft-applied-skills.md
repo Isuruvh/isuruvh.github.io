@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Microsoft Applied Skills(page 1)
+title: Microsoft Applied Skills(43 credentials)-Cloud & AI Platforms
 permalink: /microsoft-applied-skills/
 ---
 
