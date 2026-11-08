@@ -30,6 +30,15 @@ header_pages:
   - auth0-skill-badges.md
   - global-ai-community-credentials.md
 # Build settings
+# Example for default Minima theme
+google_analytics: G-CJ5YLSKD9F
+
+# Example for Chirpy/other themes
+analytics:
+  provider: "google-gtag"
+  google:
+    id: "G-CJ5YLSKD9F"
+
 markdown: kramdown
 plugins:
   - jekyll-feed
