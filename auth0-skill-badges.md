@@ -22,6 +22,10 @@ permalink: /auth0/
 | Extend Auth0 Identity Flows with Forms| 24-Oct-26 | Auth0 |[Verify](https://www.credly.com/badges/a87a3453-888d-466a-b340-1dd8bb45c688/public_url) |
 | Protect Your API Endpoints with Auth0| 27-Oct-26 | Auth0 |[Verify](https://www.credly.com/badges/0f47ea84-a707-4fec-9abe-85fbd1599073/public_url) |
 | Session and Token Management Best Practices| 26-Oct-26 | Auth0 |[Verify](https://www.credly.com/badges/952db320-5554-4ea2-a96c-cbac022a5656/public_url) |
+| Auth0 Security Best Practices | 08-Nov-26 | Auth0 | [Verify](https://www.credly.com/earner/earned/badge/c7a4ead7-cf39-4c5d-bf0a-ac0da4ee7cb7) |
+| Logging and Monitoring Best Practices | 08-Nov-26 | Auth0 | [Verify](https://www.credly.com/earner/earned/badge/59d2236a-9d21-4634-91af-a1ddd7d3236f) |
+| Securing AI Agents | 08-Nov-26 | Auth0 | [Verify](https://www.credly.com/earner/earned/badge/c6163f17-4602-4e23-a9aa-8e33350600cc) |
+| Secure Your RAG Pipelines with Auth0 Fine-Grained Access | 08-Nov-26 | Auth0 | [Verify](https://www.credly.com/earner/earned/badge/2a8adc41-5f69-453a-8437-ade79a0d06b6)|
 
 ---
 
