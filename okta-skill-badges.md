@@ -34,6 +34,8 @@ permalink: /okta/
 | Streamline Identity Governance with Workflows | 21-Sep-26 | Okta | [Verify](https://www.credly.com/badges/85a393be-dab1-44bd-acfe-b5decfec6d83/academic_transcript) |
 | Secure Multi-Agent Workflows with Okta Agent to Agent | 21-Sep-26 | Okta | [Verify](https://www.credly.com/badges/257941e0-81a9-425a-b684-c9a62ba0cfba/academic_transcript) |
 | Automate User Lifecycle Management with Workflows | 27-Sep-26 | Okta | [Verify](https://www.credly.com/badges/873f506c-ad34-4cec-adea-d438816ae419/academic_transcript) |
+| Implement Phising-Resistant MFA | 14-Nov-26 | Okta | [Verify](https://www.credly.com/earner/earned/badge/cd742293-4b4e-4197-b643-006f64c0a2f4) |
+| Evaluate the Business Impact of Phishing Resistance | 14-Nov-26 | Okta | [Verify](https://www.credly.com/earner/earned/badge/313c2c95-5462-4af0-82a4-083f2c6a59c7) |
 
 ---
 
